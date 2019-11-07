@@ -1,0 +1,10 @@
+
+body {
+  font-family: 'Varela', sans-serif;
+}
+.nav-link {
+  font-size: 17px;
+}
+.dropdown-toggle {
+ color: gray;
+}
