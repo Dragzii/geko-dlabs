@@ -8,3 +8,9 @@ body {
 .dropdown-toggle {
  color: gray;
 }
+i::before{
+    background:transparent;
+}
+.btn {
+  color: gray;
+}
