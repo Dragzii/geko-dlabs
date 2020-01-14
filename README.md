@@ -1,2 +1,2 @@
 # geko-dlabs
-D-labs site for Geko Project
+D-lab section of Geko Web Application.
